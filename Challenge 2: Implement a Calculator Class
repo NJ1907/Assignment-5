@@ -18,7 +18,7 @@ class Calculator:
         return (self.num2 / self.num1)
 
 
-obj = Calculator(10, 5)
+obj = Calculator(10, 94)
 print("Addition:", obj.add())
 print("Subtraction:", obj.subtract())
 print("Mutliplication:", obj.multiply())
